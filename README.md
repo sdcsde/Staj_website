@@ -2,7 +2,8 @@
 Staj yaptığım kurum için Stratejik Planı Geliştirme ekibini desteklemek adına bir web site tasarımı oluşturdum. 
 Tasarladığım bu web sitesi ile halkı bilinçlendirmeyi ve halkın taleplerini toplamayı amaçladım.
 Fikir amaçlı bir tasarım olduğu için tüm mahalleler eklenmemiştir. Eklenen mahalleler : Ataevler, Barış, Cumhuriyet, Çamlıca ve Demirci'dir.Bu mahallelerin butonları aktif haldedir.
-Sitenin linkini ve site görsellerini ek olarak ekledim. 
+Sitenin linkini ve site görsellerini ek olarak ekledim.
+Daha iyi veri ve belgelerler geliştirerek daha kapsamlı bir web sitesi haline gelecektir.
 Siteye bu link üzerinden ulaşabilirsiniz: https://site121813.nicepage.io/?version=b655c395-085d-49a6-b198-2f8baef6b0ea
 
 ![1](https://github.com/sdcsde/Staj_website/assets/80518882/17d1c1cb-861e-475f-844c-3c06cad91c72)
